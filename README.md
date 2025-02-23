@@ -27,6 +27,11 @@
 ![extending-a-theme](/12.png)
 ![extending-a-theme](/13.png)
 ![extending-a-theme](/14.png)
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
 ![extending-a-theme](/wx.png)
 
 
