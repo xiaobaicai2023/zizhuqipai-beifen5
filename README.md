@@ -27,7 +27,7 @@
 ![extending-a-theme](/12.png)
 ![extending-a-theme](/13.png)
 ![extending-a-theme](/14.png)
-![extending-a-theme](/xiaomage.jpg)
+![extending-a-theme](/wx.png)
 
 
 
